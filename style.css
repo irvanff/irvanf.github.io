@@ -1,0 +1,76 @@
+body {
+   background-color:#1a001a;
+  
+}
+.carousel-inner
+{
+   height: 400px;
+}
+.carousel-inner img 
+{
+    margin-top: -75px;
+}
+.carousel-item
+{
+    text-align: center;
+    margin-top: -75px;
+}
+.contener
+{
+    color: wheat;
+    margin: 250px auto;
+    width: 400px;
+    
+.input-form
+{
+    width: 30%;
+    margin-top: 75px;
+}
+
+}
+.jumbotron
+{
+    background-image: url(img/food4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 640px;
+    margin-top: -75px;
+    
+}
+.col
+{
+    margin-top: 100px;
+}
+ .content
+ {
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+ }   
+ 
+.footer 
+{
+    color: ivory;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: auto;
+}
+
+.nav-link
+{
+    color: white;
+    
+}
+.nav-link:hover{
+    border-bottom: 3px solid white;
+}
+.navbar-brand
+{
+    color: white;
+}
+
+.tombol 
+{
+    border-radius: 40px;
+    text-transform: uppercase;
+}
